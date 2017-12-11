@@ -27,12 +27,12 @@ class Animal < LivingOrganism
 
 end
 
-penguin = Animal.new
-penguin.alive
-# penguin.traits
-Animal.traits
-penguin.eat
-penguin.sleep
-penguin.drink
-penguin.speak
-penguin.procreate
+# penguin = Animal.new
+# penguin.alive
+# # penguin.traits
+# Animal.traits
+# penguin.eat
+# penguin.sleep
+# penguin.drink
+# penguin.speak
+# penguin.procreate
